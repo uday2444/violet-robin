@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Define - Excel - Accelerate
-    content: '**April 14 - 16, 2021**'
+    content: >
+      Consulting For Services That VOW Future Business Success, You Design We
+      Serve
     actions:
       - label: Get Your Ticket Today!
         url: /about
