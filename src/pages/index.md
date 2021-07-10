@@ -93,8 +93,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: We Help To Businesses Grow
-        content: >+
+      - content: >+
           As a part of organizational growth every individual contribution plays
           a vital role with irrespective of roles, We do take as an opportunity
           to serve with solutions oriented, transparency, honesty deliverance
