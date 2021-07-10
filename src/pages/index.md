@@ -94,10 +94,9 @@ sections:
         media_position: left
         media_width: sixty
       - content: >+
-          As a part of organizational growth every individual contribution plays
-          a vital role with irrespective of roles, We do take as an opportunity
-          to serve with solutions oriented, transparency, honesty deliverance
-          with ensuring growth.
+          Learning is an everyday process, along with these stuffs’
+          implementation do remarkable changes, we do inherit the trends within
+          our cultured operational views.
 
 
 
