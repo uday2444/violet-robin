@@ -20,7 +20,7 @@ sections:
     media_position: right
   - type: grid_section
     grid_items:
-      - title: 2 Days
+      - title: How do we work
         title_align: left
         content: >-
           Attend a two-track and two days conference on all things Jamstack,
