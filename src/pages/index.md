@@ -5,7 +5,7 @@ sections:
     title: Define - Excel - Accelerate
     content: >
       Consulting For Services That VOW Future Business Success, You Design We
-      Serve
+      Serve!
     actions:
       - label: Explore Our Services
         url: /about
