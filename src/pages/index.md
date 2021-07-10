@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Define - Create. Build.
+    title: Define - Excel - Accelerate
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
