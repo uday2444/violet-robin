@@ -60,7 +60,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: What you’ll experience
+    title: Our Technology Index
     features:
       - content: >+
           Setting up a cross functional teams to improve productive and to
