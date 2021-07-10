@@ -7,7 +7,7 @@ sections:
       Consulting For Services That VOW Future Business Success, You Design We
       Serve!
     actions:
-      - label: Explore Our Services
+      - label: Explore More
         url: /about
         style: primary
     align: center
