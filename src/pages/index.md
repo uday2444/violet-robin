@@ -22,7 +22,9 @@ sections:
     grid_items:
       - title: How Do We Work
         title_align: left
-        content: "###### Make Better Decisions With Humanity\n\n\_ Rather than importing leaders, we make grow leaders who thoroughly understands the companies’ principles\n"
+        content: >
+          Rather than importing leaders, we make grow leaders who thoroughly
+          understands the companies’ principles
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
