@@ -92,11 +92,14 @@ sections:
         media_position: left
         media_width: sixty
       - title: We Help To Businesses Grow
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >+
+          As a part of organizational growth every individual contribution plays
+          a vital role with irrespective of roles, We do take as an opportunity
+          to serve with solutions oriented, transparency, honesty deliverance
+          with ensuring growth.
+
+
+
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
