@@ -104,7 +104,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-        title: '  Improve and Innovate With The Technology trends'
+        title: '  Improve and Innovate With The Technology Trends'
     feature_padding_vert: large
     align: center
     padding_top: none
