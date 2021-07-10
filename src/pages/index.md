@@ -76,7 +76,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Improve And Innovate With The Technology Trends
+      - title: We Help To Businesses Grow
         content: >
           Learning is an everyday process along with these stuffs’
           implementation do remarkable changes, We do inherit the trends within
