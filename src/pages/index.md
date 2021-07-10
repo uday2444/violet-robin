@@ -77,10 +77,7 @@ sections:
   - type: features_section
     features:
       - title: Decision Making
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: "Two heads are better than one when it comes to good decision making,\_For thoroughly understanding the situation\nin-depth and superficial, senior executives commute worksite as we trust fixing flaw/improvement should be made on the verified data.\_\_\_ \n"
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
