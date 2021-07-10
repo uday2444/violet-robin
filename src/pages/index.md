@@ -76,7 +76,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Decision Making
+      - title: Improve And Innovate With The Technology Trends
         content: "Two heads are better than one when it comes to good decision making,\_For thoroughly understanding the situation\nin-depth and superficial, senior executives commute worksite as we trust fixing flaw/improvement should be made on the verified data.\_\_\_ \n"
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
