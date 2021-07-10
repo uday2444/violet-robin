@@ -91,7 +91,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Technology Discussion Rooms for All Attendees
+      - title: We Help To Businesses Grow
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
