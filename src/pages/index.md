@@ -22,9 +22,7 @@ sections:
     grid_items:
       - title: How Do We Work
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: "Make better decisions with humanity \n\n\_ Rather than importing leaders, we make grow\nleaders who thoroughly understands the companies’ principles \n"
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
