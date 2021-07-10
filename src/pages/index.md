@@ -33,7 +33,7 @@ sections:
         subtitle: 'Make Better Decisions With Humanity '
       - title: What We Believe
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: "We believe business associates. Employees are the extension of our organization , hence we should always be gratitude and challenged by helping them to improve.\_ \n\n\n\n"
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
