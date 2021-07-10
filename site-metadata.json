@@ -24,7 +24,8 @@
             {
                 "label": "Tickets",
                 "url": "thank-you",
-                "style": "primary"
+                "style": "primary",
+                "icon": "arrow-right"
             },
             {
                 "label": "Services",
