@@ -77,7 +77,10 @@ sections:
   - type: features_section
     features:
       - title: Improve And Innovate With The Technology Trends
-        content: "Two heads are better than one when it comes to good decision making,\_For thoroughly understanding the situation\nin-depth and superficial, senior executives commute worksite as we trust fixing flaw/improvement should be made on the verified data.\_\_\_ \n"
+        content: >
+          Learning is an everyday process along with these stuffs’
+          implementation do remarkable changes, We do inherit the trends within
+          our cultured operational views.
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
